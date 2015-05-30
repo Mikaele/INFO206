@@ -14,7 +14,7 @@ O PetShop deve ter as funções:
 
 "Agendar serviço"
 
-"Listar Agenda por data"
+"listar Agenda por data"
 
 "pesquisar animais relacionados ao dono"
 
