@@ -18,8 +18,8 @@ O PetShop deve ter as funções:
 
 "pesquisar animais relacionados ao dono"
 
-"Buscar dono relacionado ao animal"
+"buscar dono relacionado ao animal"
 
-"Faturamento por dia e período"
+"faturamento por dia e período"
 
 
